@@ -1,0 +1,193 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(fon.new.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right;
+  background-attachment: fixed;
+  font-family: serif;
+  max-width: 1450px;
+  overflow-x:hidden;
+}
+
+.box {
+  height: 350px;
+  background-color: #E1E8E9;
+  border-radius: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+table {
+  position: relative;
+  top: 70px;
+}
+
+h1 {
+  font-size: 6rem;
+}
+
+.hat2 {
+  font-size: 1.8rem;
+  position: relative;
+  left: 12px;
+  top: 100px;
+}
+
+.block {
+  background-color: #E1E8E9;
+  margin-left: 200px;
+  margin-right: 200px;
+  border-radius: 50px;
+  margin-top: 100px;
+}
+
+.def {
+  height: 200px;
+  font-size: 1.3rem;
+  padding-top: 100px;
+  padding-bottom: 50px;
+  height: 220px;
+  margin-bottom: 100px;
+}
+
+.prov {
+  font-size: 1.3rem;
+  padding-left: 200px;
+  padding-bottom: 50px;
+  margin-bottom: 60px;
+  color: black;
+  position: relative;
+  right: 100px;
+}
+
+.wep {
+  padding-left: 250px;
+  position: relative;
+  left: 100px;
+}
+
+.tours {
+  margin-bottom: 50px;
+  padding-top: 80px;
+  margin-top: 50px;
+}
+
+#knopka1 {
+  border-color: inherit;
+}
+
+#knopka2 {
+  border-color: inherit;
+}
+
+#knopka3 {
+  border-color: inherit;
+}
+
+.norway {
+  position: relative;
+  display: inline-block;
+  float: none;
+}
+
+.france {
+  position: relative;
+  left: 10px;
+  display:inline-block;
+  float: none;
+}
+
+.swiss {
+  position: relative;
+  left: 20px;
+  display: inline-block;
+  float: none;
+}
+
+.alert {
+  margin-bottom: 100px;
+  width: 1200px;
+}
+
+.media {
+width:1050px;
+position: relative;
+left: 200px;
+}
+
+.form {
+  font-size: 1.5rem;
+  width: 450px;
+  height: 330px;
+  background-color: #E1E8E9;
+  margin: 150px auto 0 auto;
+  text-align: center;
+  border-radius: 50px;
+  margin-bottom: 150px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.contacts {
+  font-size: 1rem;
+  padding-top: 10px;
+  padding-left: 585px;
+}
+
+.gmail {
+  position: relative;
+  right: 220px;
+  top: 13px;
+}
+
+.inst {
+  position: relative;
+  right: 220px;
+  top: 13px;
+}
+
+.faceb {
+  position: relative;
+  right: 220px;
+  top: 13px;
+}
+
+.pnum {
+  position: relative;
+  left: 200px;
+  bottom: 57px;
+}
+
+/* @media (max-width:1200px) {
+  .site {
+    max-width: 970px;
+  }
+}
+
+@media (max-width:992px) {
+  .site {
+    max-width: 750px;
+  }
+}
+
+@media (max-width:767px) {
+  .site {
+    max-width: none;
+  }
+} */
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
